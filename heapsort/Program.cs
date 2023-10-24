@@ -1,6 +1,6 @@
 ﻿using System;
 
-class HeapSort
+class HeapSortArraySolution
 {
     public static void HeapSortArray<T>(T[] arr) where T : IComparable<T>
     {
